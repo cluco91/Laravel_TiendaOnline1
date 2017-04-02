@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://github.com/cluco91/JAVA_ModuloEmpleados/blob/master/Empleados.png)
+![Image of Yaktocat](https://github.com/cluco91/Laravel_TiendaOnline1/blob/master/tienda.png)
 
 # Laravel_TiendaOnline1
 
